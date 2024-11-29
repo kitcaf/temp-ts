@@ -1,13 +1,13 @@
 {
   "name": "temp-ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "the template for typescript",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
   },
   "keywords": [],
-  "author": "",
+  "author": "kitty cafe",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.7.2",
